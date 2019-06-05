@@ -1,4 +1,4 @@
-# Uninformed (and Informed) search methods
+# Uninformed (and informed) search methods
 This repository (as part of the COMP6231 Foundations of AI module) contains basic implementation of the following types of search: depth first, breadth first, iterative deepening 
 and A* heuristic search to solve the __Blocksworld problem__. It is being examined how the time to reach 
 the solution (or a solution of a given quality) increases/scales-up with problem size/difficulty (solution depth). 
